@@ -17,8 +17,12 @@ Build an NLP-powered analytics dashboard and classifier that extracts insights f
 * Supervised Classification (MultinomialNB, Logistic Regression, SVM, etc.)
 * Data Visualization (Matplotlib, Seaborn, Plotly)
 
+Colab Link: [Code](https://colab.research.google.com/drive/1e-2H9CjntpVPy2zFibnXa0QzSY6HLzb1#scrollTo=aHCkYCWkQnpH)
+
 ## Dataset Overview: Amazon Top 100 Bestselling Books with Reviews
 The datasets offers a comprehensive view of Amazon’s Top 100 Bestselling Books, along with detailed customer reviews, ratings, pricing, and metadata. Whether for analyzing reader sentiment, exploring genre trends, or building NLP models, this dataset provides a strong foundation for extracting meaningful insights from real-world literary data.
+
+Kaggle link: [Datasets](https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews)
 
 | Feature                 | Description                                         |
 | ----------------------- | --------------------------------------------------- |
